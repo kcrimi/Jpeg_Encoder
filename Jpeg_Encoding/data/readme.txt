@@ -1,0 +1,3 @@
+The image sizes are 352x288.
+
+The RGB format is RRRR... GGG... BBB...
